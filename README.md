@@ -16,5 +16,5 @@ Hi, Im NTh1nk. An amature programmer
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=NTh1nk
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NTh1nk&theme=dark&background=000000)](https://git.io/streak-stats)
