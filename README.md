@@ -3,13 +3,12 @@
 
 Hi, Im NTh1nk. An amature programmer
 
-- 🔭 I’m currently working on a 2d Unity Game
+- 🔭 I’m currently working on https://nth1nk.itch.io/reclaim
 - 🌱 I’m currently learning Unity
-- 👯 I’m looking to collaborate on Unity games
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on a Unity
 - 💬 Ask me about coding
-- 📫 How to reach me: ...
-- 😊 Pronouns He/Him
+- 📫 How to reach me: Send me a friend request on github
+
 - ⚡ Fun fact: ...
 -->
 
