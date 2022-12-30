@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi, Im NTh1nk. An amature programmer
+Hi, Im NTh1nk. An amature programmer, i am currently focusing om game development
 
 - 🔭 I’m currently working on https://nth1nk.itch.io/reclaim
 - 🌱 I’m currently learning Unity
