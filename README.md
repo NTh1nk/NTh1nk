@@ -17,3 +17,5 @@ Hi, Im NTh1nk. An amature programmer, i am currently focusing om game developmen
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NTh1nk&theme=dark&background=000000)](https://git.io/streak-stats)
+
+Happy New years!
