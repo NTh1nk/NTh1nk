@@ -9,7 +9,7 @@ Hi, Im NTh1nk. An amature programmer, i am currently focusing om game developmen
 - 💬 Ask me about coding
 - 📫 How to reach me: Send me a friend request on github
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: In the 1980s, the code for the game "Pac-Man" was so small that it could fit in a tweet (assuming Twitter had existed at the time). The code was just 3,000 bytes, which is about a third of the size of a typical digital image taken by a modern smartphone.
 -->
 
 
