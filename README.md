@@ -1,4 +1,4 @@
-<h1>Hello im NTh1nk<h1>
+<h1>Hello im NTh1nk</h1>
 
 
 Hi, Im NTh1nk. An amature programmer, i am currently focusing om game development
