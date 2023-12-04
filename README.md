@@ -1,7 +1,7 @@
 <h1>Hello im NTh1nk</h1>
 
 
-Hi, Im NTh1nk. An amature programmer, i am currently focusing om game development
+Hi, Im NTh1nk. An amature programmer.
 
 - 🔭 I’m currently working on a nextjs website
 - 🌱 I’m currently learning web development
