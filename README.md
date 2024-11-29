@@ -1,7 +1,7 @@
-<h1>Hello im NTh1nk</h1>
+<h1>Hello im Johannes</h1>
 
 
-Hi, Im NTh1nk. Im a developer
+Hi, Im Johannes. Im a developer
 
 Always learning, feel free to reach out :).
 
