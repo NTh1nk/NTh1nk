@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2db406d6-f606-4509-80cc-53c152e91130)<h1>Hello im Johannes</h1>
+<h1>Hello im Johannes</h1>
 
 
 Hi, Im Johannes. Im a developer
