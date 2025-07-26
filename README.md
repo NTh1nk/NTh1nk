@@ -1,4 +1,4 @@
-<h1>In life we are always learning</h1>
+<h1>-In life, we are always learning</h1>
 
 Contact me: https://www.linkedin.com/in/johannes-boerresen
 
